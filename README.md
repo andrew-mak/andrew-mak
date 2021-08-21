@@ -36,7 +36,7 @@ ___
 
 * BURGER BUILDER: [demo](https://burger-builder-am.vercel.app/) | [src](https://github.com/andrew-mak/burger-builder-app/tree/dev-hooks)
 
-    I went throught React [course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) from Maximilian Schwarzmüller on the Udemy. This is demo application to order burgers.
+    I went through React [course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) from Maximilian Schwarzmüller on the Udemy. This is demo application to order burgers.
     - **Key features:** authorization, store orders data, orders history, good enough form validation
     - **Stack:** React, React Redux, React Hooks, React Router, CreateReactApp, Firebase Auth API, Firebase Realtime DB
     
