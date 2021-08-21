@@ -1,13 +1,12 @@
-## Hi there 👋
-
-### I'm Andrew Makarevich.
+### Hi there 👋 I'm Andrew Makarevich.
 
 I am a self-taught frontend developer. Currently I'm looking for **junior frontend** developer position.
 
 [![CV](https://img.shields.io/badge/CV-PDF-blue)](https://drive.google.com/file/d/1AbxI7paLH2FqJU4NN-iI6s2zdRZ71u9I/)
+[![My webpage](https://img.shields.io/badge/My-webpage-blue)](https://andrew-mak.github.io/andrew.makarevich/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrei-makarevich-a70817162/)
-[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andrews.makarevich@gmail.com)
 [![rabota.by](https://img.shields.io/badge/rabota.by-%20-red)](https://rabota.by/resume/ed87c0a9ff01f75a250039ed1f54464d5a4139)
+[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andrews.makarevich@gmail.com)
 
 ### Key skills:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5)
@@ -28,9 +27,11 @@ I am a self-taught frontend developer. Currently I'm looking for **junior fronte
 ![ESLint](https://img.shields.io/badge/-ESLint-000?style=for-the-badge&logo=ESLint)
 
 ### I want to learn:
-Vue.js, React Native, some CSS fraemworks.
+Vue.js, React Native, some CSS fraemworks and many more.
 
-#### Check out some of my study projects:
+___
+
+### Some of my study projects:
 
 * BURGER BUILDER: [demo](https://burger-builder-am.vercel.app/) | [src](https://github.com/andrew-mak/burger-builder-app/tree/dev-hooks)
 
@@ -46,34 +47,25 @@ Vue.js, React Native, some CSS fraemworks.
     
 * FIND IMAGE: [demo](https://find-image-am.vercel.app/) | [src](https://github.com/andrew-mak/find-image#readme)
 
-   This is demo application to order burgers. 
-    - **Key features:** authorization, store orders data, orders history, good enough form validation
-    - **Stack:** TypeScript, React, React Hooks, React Router, CreateReactApp, ChakraUI, Firebase Auth API, Firebase Realtime DB
+   This is demo application to search images. 
+    - **Key features:** email/password athentication, search images by text in title/tags, paggination, user's bookmarks, user's tags (create, delete) for any item in bookmarks 
+    - **Stack:** TypeScript, React, React Hooks, React Router, CreateReactApp, ChakraUI, Firebase Auth API, Flickr API
 
 * SHOPPING LIST: [demo](https://shopping-list-am.vercel.app/) | [src](https://github.com/andrew-mak/shopping-list)
 
-    This is demo application to order burgers. 
-    - **Key features:** authorization, store orders data, orders history, good enough form validation
-    - **Stack:** React, React Redux, React Hooks, React Router, CreateReactApp, Firebase Auth API, Firebase Realtime DB
-    
-### Contacts:
+    This is demo application to manage purchases. 
+    - **Key features:** authorization, purchases: add, delete, chnage item state; store purchases
+    - **Stack:** React, React Hooks, React Router, CreateReactApp, Firebase Auth API, Firebase Realtime DB
 
-- GitHub: @andrew-mak
-- Phone: +375-44-5941532
-- Email: andrew.makarevich@gmail.com
+___
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-mak&show_icons=true&theme=dark)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-mak&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-mak&layout=compact&theme=gruvbox&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-mak&layout=compact&theme=dark&show_icons=true)
 
 
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=andrew-makC&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LexSava&layout=compact&theme=gruvbox)
--->
-
 
 <!--
 **andrew-mak/andrew-mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
