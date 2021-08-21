@@ -14,6 +14,7 @@ I am a self-taught frontend developer. Currently I'm looking for **junior fronte
 ![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat-square&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=TypeScript)  
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat-square&logo=graphql)
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=flat-square&logo=Redux)
 ![Router](https://img.shields.io/badge/-Router-000?style=flat-square&logo=reactrouter)
