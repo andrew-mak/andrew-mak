@@ -8,30 +8,30 @@ I am a self-taught frontend developer. Currently I'm looking for **junior fronte
 [![rabota.by](https://img.shields.io/badge/rabota.by-%20-red)](https://rabota.by/resume/ed87c0a9ff01f75a250039ed1f54464d5a4139)
 [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andrews.makarevich@gmail.com)
 
-### Key skills:
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3)
-![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=SASS)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)  
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
-![Router](https://img.shields.io/badge/-Router-000?style=for-the-badge&logo=reactrouter)
+#### Key skills:
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat-square&logo=SASS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=TypeScript)  
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000?style=flat-square&logo=Redux)
+![Router](https://img.shields.io/badge/-Router-000?style=flat-square&logo=reactrouter)
 
-### Software and tools:
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git)
-![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode)
-![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=Webpack)
-![npm](https://img.shields.io/badge/-npm-000?style=for-the-badge&logo=npm)
-![yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn) 
-![ESLint](https://img.shields.io/badge/-ESLint-000?style=for-the-badge&logo=ESLint)
+#### Software and tools:
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=Git)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat-square&logo=visualstudiocode)
+![Webpack](https://img.shields.io/badge/-Webpack-000?style=flat-square&logo=Webpack)
+![npm](https://img.shields.io/badge/-npm-000?style=flat-square&logo=npm)
+![yarn](https://img.shields.io/badge/-yarn-000?style=flat-square&logo=yarn) 
+![ESLint](https://img.shields.io/badge/-ESLint-000?style=flat-square&logo=ESLint)
 
-### I want to learn:
+#### I want to learn:
 Vue.js, React Native, some CSS fraemworks and many more.
 
 ___
 
-### Some of my study projects:
+#### Some of my study projects:
 
 * BURGER BUILDER: [demo](https://burger-builder-am.vercel.app/) | [src](https://github.com/andrew-mak/burger-builder-app/tree/dev-hooks)
 
