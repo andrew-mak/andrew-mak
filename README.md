@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Andrew Makarevich.
 
-I am a self-taught frontend developer. Currently I'm looking for **junior frontend** developer position.
+I am a frontend developer. Mainly I am working with such technologies like SAPUI5, React and other related.
 
 [![CV](https://img.shields.io/badge/CV-PDF-blue)](https://drive.google.com/file/d/1AbxI7paLH2FqJU4NN-iI6s2zdRZ71u9I/)
 [![My webpage](https://img.shields.io/badge/My-webpage-blue)](https://andrew-mak.github.io/andrew.makarevich/)
@@ -15,6 +15,7 @@ I am a self-taught frontend developer. Currently I'm looking for **junior fronte
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=TypeScript)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat-square&logo=graphql)
+![SAPUI5](https://img.shields.io/badge/-SAPUI5-000?style=flat-square&logo=sapui5)
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=flat-square&logo=Redux)
 ![Router](https://img.shields.io/badge/-Router-000?style=flat-square&logo=reactrouter)
