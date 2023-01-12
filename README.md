@@ -2,10 +2,10 @@
 
 I am a frontend developer. Mainly I am working with such technologies like SAPUI5, React and other related.
 
-[![CV](https://img.shields.io/badge/CV-PDF-blue)](https://drive.google.com/file/d/1AbxI7paLH2FqJU4NN-iI6s2zdRZ71u9I/)
+<!-- [![CV](https://img.shields.io/badge/CV-PDF-blue)](https://drive.google.com/file/d/1AbxI7paLH2FqJU4NN-iI6s2zdRZ71u9I/) -->
 [![My webpage](https://img.shields.io/badge/My-webpage-blue)](https://andrew-mak.github.io/andrew.makarevich/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrei-makarevich-a70817162/)
-[![rabota.by](https://img.shields.io/badge/rabota.by-%20-red)](https://rabota.by/resume/ed87c0a9ff01f75a250039ed1f54464d5a4139)
+<!-- [![rabota.by](https://img.shields.io/badge/rabota.by-%20-red)](https://rabota.by/resume/ed87c0a9ff01f75a250039ed1f54464d5a4139) -->
 [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andrews.makarevich@gmail.com)
 
 #### Key skills:
